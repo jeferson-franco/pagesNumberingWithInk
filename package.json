@@ -1,0 +1,20 @@
+{
+    "name": "pagesnumberingwithink",
+    "version": "1.0.0",
+    "description": "You work in a company that prints and publishes books. You are responsible for designing the page numbering mechanism in the printer. You know how many digits a printer can print with the leftover ink. Now you want to write a function to determine what the last page of the book is that you can number given the `current` page and `numberOfDigits` left. A page is considered numbered if it has the full number printed on it (e.g. if we are working with page `102` but have ink only for two digits then this page will not be considered numbered).",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jeferson-franco/pagesNumberingWithInk.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jeferson-franco/pagesNumberingWithInk/issues"
+    },
+    "homepage": "https://github.com/jeferson-franco/pagesNumberingWithInk#readme"
+}
